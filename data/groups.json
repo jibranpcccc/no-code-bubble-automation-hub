@@ -1,16 +1,16 @@
 [
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-1",
-    "title": "r/MachineLearning Research",
+    "title": "r/Bubbleio Visual Web Apps",
     "platform": "Reddit",
-    "category": "Machine Learning",
-    "memberCount": "2,900,000+ members",
-    "description": "Premier forum for machine learning research, theoretical papers, benchmark debates, and open-source models.",
-    "joinUrl": "https://www.reddit.com/r/MachineLearning/",
+    "category": "No-Code Development",
+    "memberCount": "38,000+ members",
+    "description": "The primary community for Bubble developers, covering responsive layouts, backend workflows, custom plugins, and database performance.",
+    "joinUrl": "https://www.reddit.com/r/Bubbleio/",
     "tags": [
-      "machine-learning",
-      "ai",
-      "research",
+      "bubble",
+      "nocode",
+      "web-apps",
       "reddit"
     ],
     "verified": true,
@@ -18,16 +18,16 @@
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-2",
-    "title": "r/LocalLLaMA Open Models",
+    "title": "r/nocode Software Building",
     "platform": "Reddit",
-    "category": "Large Language Models",
-    "memberCount": "260,000+ members",
-    "description": "Leading community for running open weights LLMs locally, quantization (GGUF/AWQ), fine-tuning, and hardware benchmarks.",
-    "joinUrl": "https://www.reddit.com/r/LocalLLaMA/",
+    "category": "Visual Development",
+    "memberCount": "92,000+ members",
+    "description": "Foundational community comparing no-code stack combinations, API webhook pipelines, and rapid MVP deployment.",
+    "joinUrl": "https://www.reddit.com/r/nocode/",
     "tags": [
-      "localllama",
-      "ai",
-      "open-source",
+      "nocode",
+      "mvp",
+      "automation",
       "reddit"
     ],
     "verified": true,
@@ -35,84 +35,84 @@
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-3",
-    "title": "r/ChatGPT AI Community",
+    "title": "r/Zapier Workflow Automation",
     "platform": "Reddit",
-    "category": "Generative AI",
-    "memberCount": "6,100,000+ members",
-    "description": "Vibrant discussion forum on OpenAI ChatGPT updates, prompt engineering strategies, custom GPTs, and creative workflows.",
-    "joinUrl": "https://www.reddit.com/r/ChatGPT/",
+    "category": "Integration & APIs",
+    "memberCount": "24,000+ members",
+    "description": "Enterprise automation flows, webhook triggers, multi-step zaps, and error-handling architectures.",
+    "joinUrl": "https://www.reddit.com/r/Zapier/",
     "tags": [
-      "chatgpt",
-      "openai",
-      "prompts",
+      "zapier",
+      "automation",
+      "integrations",
       "reddit"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "no-code-web-apps-bubble-io-builders-hub-discord-4",
-    "title": "OpenAI Official Discord",
-    "platform": "Discord",
-    "category": "Generative AI",
-    "memberCount": "550,000+ members",
-    "description": "Official community server for OpenAI developers, GPT API architectures, assistants, and generative model updates.",
-    "joinUrl": "https://discord.gg/openai",
+    "id": "no-code-web-apps-bubble-io-builders-hub-reddit-4",
+    "title": "r/Airtable Relational Databases",
+    "platform": "Reddit",
+    "category": "Database & Interfaces",
+    "memberCount": "41,000+ members",
+    "description": "Relational schema designs, scripting extensions, Interface Designer dashboards, and sync tables.",
+    "joinUrl": "https://www.reddit.com/r/Airtable/",
     "tags": [
-      "openai",
-      "chatgpt",
-      "api",
-      "discord"
+      "airtable",
+      "database",
+      "nocode",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "no-code-web-apps-bubble-io-builders-hub-discord-5",
-    "title": "Midjourney Official Discord",
-    "platform": "Discord",
-    "category": "Creative AI & Art",
-    "memberCount": "16,000,000+ members",
-    "description": "The largest generative art community in the world, featuring real-time image prompting, stylistic feedback, and gallery showcases.",
-    "joinUrl": "https://discord.gg/midjourney",
+    "id": "no-code-web-apps-bubble-io-builders-hub-reddit-5",
+    "title": "r/Integromat Make Automation",
+    "platform": "Reddit",
+    "category": "Complex Workflows",
+    "memberCount": "19,000+ members",
+    "description": "Advanced Make.com scenarios, JSON parsing, iterator/aggregator arrays, and webhook endpoints.",
+    "joinUrl": "https://www.reddit.com/r/Integromat/",
     "tags": [
-      "midjourney",
-      "ai-art",
-      "prompts",
-      "discord"
+      "make",
+      "integromat",
+      "automation",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "no-code-web-apps-bubble-io-builders-hub-discord-6",
-    "title": "Hugging Face Community Discord",
-    "platform": "Discord",
-    "category": "Open Source AI",
-    "memberCount": "140,000+ members",
-    "description": "Hub for the open-source AI community discussing Transformers, Diffusers, model weights, and Hugging Face Spaces.",
-    "joinUrl": "https://discuss.huggingface.co",
+    "id": "no-code-web-apps-bubble-io-builders-hub-reddit-6",
+    "title": "r/Webflow Visual Site Building",
+    "platform": "Reddit",
+    "category": "Design & CMS",
+    "memberCount": "56,000+ members",
+    "description": "Custom CSS styling, Webflow interactions, CMS collections, and client-first responsive architectures.",
+    "joinUrl": "https://www.reddit.com/r/Webflow/",
     "tags": [
-      "huggingface",
-      "transformers",
-      "open-source",
-      "discord"
+      "webflow",
+      "cms",
+      "frontend",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-7",
-    "title": "r/Midjourney Prompt Engineering",
+    "title": "r/FlutterDev Cross-Platform Dev",
     "platform": "Reddit",
-    "category": "Creative AI & Art",
-    "memberCount": "1,300,000+ members",
-    "description": "Curated community sharing Midjourney prompt formulas, lighting styles, camera parameters, and generative showcases.",
-    "joinUrl": "https://www.reddit.com/r/Midjourney/",
+    "category": "Mobile & FlutterFlow",
+    "memberCount": "145,000+ members",
+    "description": "Discussion on Flutter and FlutterFlow low-code mobile architectures, widget trees, and backend state.",
+    "joinUrl": "https://www.reddit.com/r/FlutterDev/",
     "tags": [
-      "midjourney",
-      "prompts",
-      "ai-art",
+      "flutter",
+      "lowcode",
+      "mobile",
       "reddit"
     ],
     "verified": true,
@@ -120,67 +120,67 @@
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-8",
-    "title": "r/StableDiffusion Local Art",
+    "title": "r/automation Business Systems",
     "platform": "Reddit",
-    "category": "Creative AI & Art",
-    "memberCount": "480,000+ members",
-    "description": "Community dedicated to Stable Diffusion checkpoints, LoRAs, ComfyUI workflows, ControlNet, and SDXL rendering.",
-    "joinUrl": "https://www.reddit.com/r/StableDiffusion/",
+    "category": "Process Automation",
+    "memberCount": "78,000+ members",
+    "description": "End-to-end operational automation, RPA scripts, CRM synchronizations, and internal tooling.",
+    "joinUrl": "https://www.reddit.com/r/automation/",
     "tags": [
-      "stablediffusion",
-      "comfyui",
-      "ai-art",
+      "automation",
+      "operations",
+      "rpa",
       "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "no-code-web-apps-bubble-io-builders-hub-telegram-9",
-    "title": "AI Insights & Research Feed",
-    "platform": "Telegram",
-    "category": "AI Research",
-    "memberCount": "72,000+ members",
-    "description": "Fast-paced updates on frontier AI model releases, arXiv research papers, multimodal benchmarks, and open weights.",
-    "joinUrl": "https://t.me/ai_insights",
+    "id": "no-code-web-apps-bubble-io-builders-hub-reddit-9",
+    "title": "r/SideProject MVP Builders",
+    "platform": "Reddit",
+    "category": "Product Launches",
+    "memberCount": "210,000+ members",
+    "description": "Showcasing no-code and indie hacker micro-SaaS prototypes, collecting user feedback, and early adoption.",
+    "joinUrl": "https://www.reddit.com/r/SideProject/",
     "tags": [
-      "ai",
-      "research",
-      "telegram",
-      "models"
+      "sideproject",
+      "mvp",
+      "startups",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "no-code-web-apps-bubble-io-builders-hub-telegram-10",
-    "title": "Machine Learning Digest Channel",
-    "platform": "Telegram",
-    "category": "Machine Learning",
-    "memberCount": "58,000+ members",
-    "description": "Daily curated breakdown of machine learning algorithms, deep learning implementations, and neural net research.",
-    "joinUrl": "https://t.me/machinelearning_digest",
+    "id": "no-code-web-apps-bubble-io-builders-hub-reddit-10",
+    "title": "r/SaaS Micro-SaaS Founders",
+    "platform": "Reddit",
+    "category": "SaaS Operations",
+    "memberCount": "120,000+ members",
+    "description": "Monetization strategies, Stripe integration, user onboarding friction, and churn reduction for web apps.",
+    "joinUrl": "https://www.reddit.com/r/SaaS/",
     "tags": [
-      "machine-learning",
-      "telegram",
-      "digest",
-      "deep-learning"
+      "saas",
+      "bootstrapping",
+      "mrr",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-11",
-    "title": "r/PromptEngineering Elite",
+    "title": "r/IndieHackers Bootstrapping",
     "platform": "Reddit",
-    "category": "Prompt Engineering",
-    "memberCount": "110,000+ members",
-    "description": "Systematic discussion of prompt architecture, few-shot conditioning, chain-of-thought methods, and agentic workflows.",
-    "joinUrl": "https://www.reddit.com/r/PromptEngineering/",
+    "category": "Indie Business",
+    "memberCount": "150,000+ members",
+    "description": "Transparent revenue reporting, no-code stack showcases, and customer acquisition playbooks.",
+    "joinUrl": "https://www.reddit.com/r/IndieHackers/",
     "tags": [
-      "prompts",
-      "llm",
-      "agents",
+      "indiehackers",
+      "nocode",
+      "business",
       "reddit"
     ],
     "verified": true,
@@ -188,323 +188,307 @@
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-12",
-    "title": "r/ClaudeAI Anthropic Community",
+    "title": "r/appsmith Internal Tools",
     "platform": "Reddit",
-    "category": "Large Language Models",
-    "memberCount": "95,000+ members",
-    "description": "Community focused on Anthropic's Claude models, Sonnet coding workflows, artifacts, and long-context capabilities.",
-    "joinUrl": "https://www.reddit.com/r/ClaudeAI/",
+    "category": "Low-Code Dashboards",
+    "memberCount": "8,500+ members",
+    "description": "Building internal administrative panels, SQL database connectors, and enterprise low-code apps.",
+    "joinUrl": "https://www.reddit.com/r/appsmith/",
     "tags": [
-      "claude",
-      "anthropic",
-      "llm",
+      "appsmith",
+      "internal-tools",
+      "lowcode",
       "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "no-code-web-apps-bubble-io-builders-hub-discord-13",
-    "title": "Anthropic Claude Discord",
-    "platform": "Discord",
-    "category": "Large Language Models",
-    "memberCount": "62,000+ members",
-    "description": "Community server discussing Claude API integrations, prompt techniques, and AI safety evaluations.",
-    "joinUrl": "https://discord.gg/anthropic",
+    "id": "no-code-web-apps-bubble-io-builders-hub-reddit-13",
+    "title": "r/AIAgents Agentic Workflows",
+    "platform": "Reddit",
+    "category": "AI Automation",
+    "memberCount": "34,000+ members",
+    "description": "Integrating LLM function calling and autonomous agents with Zapier, Make, and Bubble apps.",
+    "joinUrl": "https://www.reddit.com/r/AIAgents/",
     "tags": [
-      "claude",
-      "anthropic",
-      "api",
-      "discord"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-web-apps-bubble-io-builders-hub-discord-14",
-    "title": "LangChain Official Discord",
-    "platform": "Discord",
-    "category": "AI Engineering",
-    "memberCount": "80,000+ members",
-    "description": "Community dedicated to building LLM applications with LangChain, LangSmith, and LangGraph agent architectures.",
-    "joinUrl": "https://github.com/langchain-ai/langchain/discussions",
-    "tags": [
-      "langchain",
-      "agents",
       "ai",
+      "agents",
+      "automation",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "no-code-web-apps-bubble-io-builders-hub-reddit-14",
+    "title": "r/software Architecture Forum",
+    "platform": "Reddit",
+    "category": "Software Design",
+    "memberCount": "420,000+ members",
+    "description": "System design trade-offs between custom codebases and scalable no-code component stacks.",
+    "joinUrl": "https://www.reddit.com/r/software/",
+    "tags": [
+      "software",
+      "engineering",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "no-code-web-apps-bubble-io-builders-hub-reddit-15",
+    "title": "r/webdev Modern Web Engineering",
+    "platform": "Reddit",
+    "category": "Web Development",
+    "memberCount": "2,400,000+ members",
+    "description": "API best practices, REST and GraphQL endpoints, webhook authentication, and CORS headers.",
+    "joinUrl": "https://www.reddit.com/r/webdev/",
+    "tags": [
+      "webdev",
+      "apis",
+      "frontend",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "no-code-web-apps-bubble-io-builders-hub-discord-16",
+    "title": "Bubble Official Community Discord",
+    "platform": "Discord",
+    "category": "No-Code Development",
+    "memberCount": "42,000+ members",
+    "description": "Active Discord for Bubble builders debugging responsive layouts, database constraints, and API connector plugins.",
+    "joinUrl": "https://discord.gg/bubble",
+    "tags": [
+      "bubble",
+      "nocode",
       "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "no-code-web-apps-bubble-io-builders-hub-forum-15",
-    "title": "PyTorch GitHub Discussions",
-    "platform": "GitHub",
-    "category": "Open Source AI",
-    "memberCount": "500,000+ members",
-    "description": "Official forum for open-source AI researchers, fine-tuning checkpoints, tokenizers, and PyTorch models.",
-    "joinUrl": "https://discuss.pytorch.org",
-    "tags": [
-      "huggingface",
-      "forum",
-      "transformers",
-      "pytorch"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-web-apps-bubble-io-builders-hub-github-16",
-    "title": "OpenAI Developer Forum",
-    "platform": "Forum",
-    "category": "Machine Learning",
-    "memberCount": "90,000+ contributors",
-    "description": "Official PyTorch open-source discussions on CUDA acceleration, model architectures, and compiler backends.",
-    "joinUrl": "https://community.openai.com",
-    "tags": [
-      "pytorch",
-      "github",
-      "deep-learning",
-      "cuda"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-web-apps-bubble-io-builders-hub-forum-17",
-    "title": "Kaggle Data & AI Discussions",
-    "platform": "Forum",
-    "category": "Generative AI",
-    "memberCount": "400,000+ members",
-    "description": "Official developer forum for troubleshooting OpenAI API endpoints, fine-tuning jobs, and function calling.",
-    "joinUrl": "https://www.kaggle.com/discussion",
-    "tags": [
-      "openai",
-      "forum",
-      "api",
-      "gpt-4"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-web-apps-bubble-io-builders-hub-forum-18",
-    "title": "r/Python Developer Community",
-    "platform": "Reddit",
-    "category": "Data Science & AI",
-    "memberCount": "1,500,000+ members",
-    "description": "Global competitions, notebook implementations, and deep-dive methodology discussions for ML practitioners.",
-    "joinUrl": "https://www.reddit.com/r/Python/",
-    "tags": [
-      "kaggle",
-      "machine-learning",
-      "forum",
-      "competitions"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-web-apps-bubble-io-builders-hub-reddit-19",
-    "title": "Python Official Discord",
+    "id": "no-code-web-apps-bubble-io-builders-hub-discord-17",
+    "title": "Webflow Designers Discord",
     "platform": "Discord",
-    "category": "Python Development",
-    "memberCount": "1,250,000+ members",
-    "description": "The premier community for Python engineers, covering news, PEP proposals, open-source packages, and architecture discussions.",
-    "joinUrl": "https://discord.gg/python",
+    "category": "Visual Development",
+    "memberCount": "68,000+ members",
+    "description": "Webflow agency owners, CSS wizards, and client-first framework developers sharing cloneables.",
+    "joinUrl": "https://discord.gg/webflow",
     "tags": [
-      "python",
-      "backend",
-      "software-engineering",
-      "reddit"
+      "webflow",
+      "design",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "no-code-web-apps-bubble-io-builders-hub-discord-18",
+    "title": "NoCode Developers Discord",
+    "platform": "Discord",
+    "category": "Cross-Platform No-Code",
+    "memberCount": "31,000+ members",
+    "description": "Multi-tool no-code discussions comparing FlutterFlow, Bubble, WeWeb, Supabase, and Xano.",
+    "joinUrl": "https://discord.gg/nocode",
+    "tags": [
+      "nocode",
+      "lowcode",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "no-code-web-apps-bubble-io-builders-hub-discord-19",
+    "title": "Make Automation Guild Discord",
+    "platform": "Discord",
+    "category": "Integration & Webhooks",
+    "memberCount": "25,000+ members",
+    "description": "Complex webhook routing, error fallback branches, and high-frequency Make scenario optimization.",
+    "joinUrl": "https://discord.gg/make",
+    "tags": [
+      "make",
+      "automation",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-discord-20",
-    "title": "Python Developers Telegram Channel",
-    "platform": "Telegram",
-    "category": "Python Development",
-    "memberCount": "430,000+ members",
-    "description": "Active real-time developer server for Python help, code reviews, algorithmic design, and package development.",
-    "joinUrl": "https://t.me/python_scripts",
-    "tags": [
-      "python",
-      "discord",
-      "code-review",
-      "programming"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-web-apps-bubble-io-builders-hub-telegram-21",
-    "title": "r/programming International",
-    "platform": "Reddit",
-    "category": "Python Development",
-    "memberCount": "85,000+ members",
-    "description": "Curated daily Python scripts, architectural patterns, release alerts, and performance optimization guides.",
-    "joinUrl": "https://www.reddit.com/r/programming/",
-    "tags": [
-      "python",
-      "telegram",
-      "scripts",
-      "tips"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-web-apps-bubble-io-builders-hub-reddit-22",
-    "title": "The Programmer's Hangout",
+    "title": "Airtable Builders Discord",
     "platform": "Discord",
-    "category": "General Programming",
-    "memberCount": "5,800,000+ members",
-    "description": "Major international hub for computer programming discussions, industry insights, and software development trends.",
-    "joinUrl": "https://discord.gg/programming",
+    "category": "Database Engineering",
+    "memberCount": "29,000+ members",
+    "description": "Relational data structures, scripting blocks, webhook automation, and enterprise permissions.",
+    "joinUrl": "https://discord.gg/airtable",
     "tags": [
-      "programming",
-      "engineering",
-      "industry",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-web-apps-bubble-io-builders-hub-discord-23",
-    "title": "r/rust Systems Programming",
-    "platform": "Reddit",
-    "category": "Software Engineering",
-    "memberCount": "220,000+ members",
-    "description": "A collaborative multi-language developer Discord covering architecture, algorithms, career advice, and live coding.",
-    "joinUrl": "https://www.reddit.com/r/rust/",
-    "tags": [
-      "programming",
-      "multi-language",
-      "discord",
-      "career"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-web-apps-bubble-io-builders-hub-reddit-24",
-    "title": "Rust Programming Language Discord",
-    "platform": "Discord",
-    "category": "Systems Programming",
-    "memberCount": "280,000+ members",
-    "description": "Dedicated community for the Rust programming language focusing on memory safety, concurrency, and high-performance systems.",
-    "joinUrl": "https://discord.gg/rust-lang",
-    "tags": [
-      "rust",
-      "systems",
-      "concurrency",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-web-apps-bubble-io-builders-hub-discord-25",
-    "title": "Rust Language News & Updates",
-    "platform": "Telegram",
-    "category": "Systems Programming",
-    "memberCount": "95,000+ members",
-    "description": "Official community Discord server for the Rust programming language with dedicated channels for crates, async, and compiler work.",
-    "joinUrl": "https://t.me/rust_lang_news",
-    "tags": [
-      "rust",
-      "systems",
-      "discord",
-      "compiler"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-web-apps-bubble-io-builders-hub-telegram-26",
-    "title": "r/javascript Global Hub",
-    "platform": "Reddit",
-    "category": "Systems Programming",
-    "memberCount": "32,000+ members",
-    "description": "Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.",
-    "joinUrl": "https://www.reddit.com/r/javascript/",
-    "tags": [
-      "rust",
-      "telegram",
-      "systems",
-      "updates"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-web-apps-bubble-io-builders-hub-reddit-27",
-    "title": "Reactiflux Discord Community",
-    "platform": "Discord",
-    "category": "Web Development",
-    "memberCount": "2,400,000+ members",
-    "description": "Discussions, releases, frameworks, and architecture patterns from across the JavaScript and ECMAScript ecosystem.",
-    "joinUrl": "https://discord.gg/reactiflux",
-    "tags": [
-      "javascript",
-      "webdev",
-      "frontend",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-web-apps-bubble-io-builders-hub-discord-28",
-    "title": "Web Developers Network",
-    "platform": "Telegram",
-    "category": "Frontend Engineering",
-    "memberCount": "210,000+ members",
-    "description": "The largest community of React, React Native, and full-stack JavaScript developers on Discord.",
-    "joinUrl": "https://t.me/webdev_hub",
-    "tags": [
-      "react",
-      "frontend",
-      "javascript",
+      "airtable",
+      "database",
       "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "no-code-web-apps-bubble-io-builders-hub-telegram-29",
-    "title": "r/golang Backend Hub",
-    "platform": "Reddit",
-    "category": "Web Development",
-    "memberCount": "64,000+ members",
-    "description": "Public channel providing updates on frontend, backend, browser standards, and dev tooling.",
-    "joinUrl": "https://www.reddit.com/r/golang/",
+    "id": "no-code-web-apps-bubble-io-builders-hub-discord-21",
+    "title": "Zapier Automation Community Discord",
+    "platform": "Discord",
+    "category": "API Integrations",
+    "memberCount": "34,000+ members",
+    "description": "Discussion on Zapier tables, custom code actions (Python/JS), and webhook integrations.",
+    "joinUrl": "https://discord.gg/zapier",
     "tags": [
-      "webdev",
-      "frontend",
-      "telegram",
-      "tooling"
+      "zapier",
+      "integrations",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "no-code-web-apps-bubble-io-builders-hub-reddit-30",
-    "title": "Go Language Official Discord",
+    "id": "no-code-web-apps-bubble-io-builders-hub-discord-22",
+    "title": "Startups & Micro-SaaS Discord",
     "platform": "Discord",
-    "category": "Backend Engineering",
-    "memberCount": "250,000+ members",
-    "description": "Community for Go programmers covering microservices, concurrency patterns, standard library best practices, and tooling.",
-    "joinUrl": "https://discord.gg/golang",
+    "category": "Early-Stage Founders",
+    "memberCount": "95,000+ members",
+    "description": "Founders sharing launch strategies, user feedback, and early monetization milestones for no-code apps.",
+    "joinUrl": "https://discord.gg/startups",
     "tags": [
-      "golang",
-      "backend",
-      "concurrency",
-      "reddit"
+      "startups",
+      "founders",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "no-code-web-apps-bubble-io-builders-hub-telegram-23",
+    "title": "NoCode Builders Telegram",
+    "platform": "Telegram",
+    "category": "No-Code News",
+    "memberCount": "28,000+ members",
+    "description": "Real-time updates on no-code tool releases, plugin updates, and community showcase templates.",
+    "joinUrl": "https://t.me/nocode",
+    "tags": [
+      "nocode",
+      "templates",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "no-code-web-apps-bubble-io-builders-hub-telegram-24",
+    "title": "Automation Masters Telegram",
+    "platform": "Telegram",
+    "category": "Process Automation",
+    "memberCount": "35,000+ members",
+    "description": "Curated tutorials on building automated backends with webhook endpoints and AI pipelines.",
+    "joinUrl": "https://t.me/automation",
+    "tags": [
+      "automation",
+      "apis",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "no-code-web-apps-bubble-io-builders-hub-telegram-25",
+    "title": "Webflow Creators Telegram",
+    "platform": "Telegram",
+    "category": "Visual CMS",
+    "memberCount": "22,000+ members",
+    "description": "Daily cloneable showcases, animation presets, and client onboarding agreements for Webflow devs.",
+    "joinUrl": "https://t.me/webflow",
+    "tags": [
+      "webflow",
+      "design",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "no-code-web-apps-bubble-io-builders-hub-forum-26",
+    "title": "Bubble Official Community Forum",
+    "platform": "Forum",
+    "category": "Visual Programming",
+    "memberCount": "180,000+ members",
+    "description": "The definitive archive of Bubble solutions, database optimizations, and community-built plugin documentation.",
+    "joinUrl": "https://forum.bubble.io",
+    "tags": [
+      "bubble",
+      "plugins",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "no-code-web-apps-bubble-io-builders-hub-forum-27",
+    "title": "Zapier Official Community",
+    "platform": "Forum",
+    "category": "Integration Architecture",
+    "memberCount": "95,000+ members",
+    "description": "Troubleshooting webhook triggers, custom Python actions, and API rate limits on Zapier.",
+    "joinUrl": "https://community.zapier.com",
+    "tags": [
+      "zapier",
+      "integrations",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "no-code-web-apps-bubble-io-builders-hub-forum-28",
+    "title": "Airtable Official Community",
+    "platform": "Forum",
+    "category": "Relational Data",
+    "memberCount": "120,000+ members",
+    "description": "Enterprise database schemas, formula writing assistance, and automations troubleshooting.",
+    "joinUrl": "https://community.airtable.com",
+    "tags": [
+      "airtable",
+      "schemas",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "no-code-web-apps-bubble-io-builders-hub-forum-29",
+    "title": "Make Official Community Forum",
+    "platform": "Forum",
+    "category": "Complex Scenarios",
+    "memberCount": "88,000+ members",
+    "description": "Advanced scenario architecture, custom webhook error handling, and API integration tutorials.",
+    "joinUrl": "https://community.make.com",
+    "tags": [
+      "make",
+      "scenarios",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "no-code-web-apps-bubble-io-builders-hub-forum-30",
+    "title": "Product Hunt Discussion Hub",
+    "platform": "Forum",
+    "category": "Product Discovery",
+    "memberCount": "650,000+ members",
+    "description": "Global discussion board where builders launch new web apps, tools, and SaaS products daily.",
+    "joinUrl": "https://www.producthunt.com/discussions",
+    "tags": [
+      "producthunt",
+      "launches",
+      "forum"
     ],
     "verified": true,
     "featured": false
