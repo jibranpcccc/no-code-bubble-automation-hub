@@ -255,12 +255,12 @@
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-discord-16",
-    "title": "Bubble Official Community Discord",
-    "platform": "Discord",
+    "title": "Bubble Official Community Forum",
+    "platform": "Forum",
     "category": "No-Code Development",
     "memberCount": "42,000+ members",
     "description": "Active Discord for Bubble builders debugging responsive layouts, database constraints, and API connector plugins.",
-    "joinUrl": "https://discord.gg/bubble",
+    "joinUrl": "https://forum.bubble.io",
     "tags": [
       "bubble",
       "nocode",
@@ -271,12 +271,12 @@
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-discord-17",
-    "title": "Webflow Designers Discord",
-    "platform": "Discord",
+    "title": "Webflow Official Discourse Forum",
+    "platform": "Forum",
     "category": "Visual Development",
     "memberCount": "68,000+ members",
     "description": "Webflow agency owners, CSS wizards, and client-first framework developers sharing cloneables.",
-    "joinUrl": "https://discord.gg/webflow",
+    "joinUrl": "https://discourse.webflow.com",
     "tags": [
       "webflow",
       "design",
@@ -287,12 +287,12 @@
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-discord-18",
-    "title": "NoCode Developers Discord",
+    "title": "Flutter App Builders Official Discord",
     "platform": "Discord",
     "category": "Cross-Platform No-Code",
     "memberCount": "31,000+ members",
     "description": "Multi-tool no-code discussions comparing FlutterFlow, Bubble, WeWeb, Supabase, and Xano.",
-    "joinUrl": "https://discord.gg/nocode",
+    "joinUrl": "https://discord.gg/flutter",
     "tags": [
       "nocode",
       "lowcode",
@@ -319,12 +319,12 @@
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-discord-20",
-    "title": "Airtable Builders Discord",
-    "platform": "Discord",
+    "title": "Airtable Community Platform",
+    "platform": "Forum",
     "category": "Database Engineering",
     "memberCount": "29,000+ members",
     "description": "Relational data structures, scripting blocks, webhook automation, and enterprise permissions.",
-    "joinUrl": "https://discord.gg/airtable",
+    "joinUrl": "https://community.airtable.com",
     "tags": [
       "airtable",
       "database",
@@ -335,12 +335,12 @@
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-discord-21",
-    "title": "Zapier Automation Community Discord",
-    "platform": "Discord",
+    "title": "Zapier Official Community",
+    "platform": "Forum",
     "category": "API Integrations",
     "memberCount": "34,000+ members",
     "description": "Discussion on Zapier tables, custom code actions (Python/JS), and webhook integrations.",
-    "joinUrl": "https://discord.gg/zapier",
+    "joinUrl": "https://community.zapier.com",
     "tags": [
       "zapier",
       "integrations",
