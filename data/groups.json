@@ -1,5 +1,23 @@
 [
   {
+    "id": "no-code-bubble-automation-hub-discord-20260913-1",
+    "title": "Bubble Official Community Discord",
+    "platform": "Discord",
+    "category": "No-Code Development",
+    "memberCount": "42,000+ members",
+    "description": "Active Discord for Bubble builders debugging responsive layouts, database constraints, and API connector plugins.",
+    "joinUrl": "https://discord.gg/bubble",
+    "tags": [
+      "bubble",
+      "nocode",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-13"
+  },
+  {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-1",
     "title": "r/Bubbleio Visual Web Apps",
     "platform": "Reddit",
@@ -14,7 +32,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-2",
@@ -31,7 +50,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-3",
@@ -48,7 +68,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-4",
@@ -65,7 +86,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-5",
@@ -82,7 +104,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-6",
@@ -99,7 +122,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-7",
@@ -116,7 +140,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-8",
@@ -133,7 +158,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-9",
@@ -150,7 +176,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-10",
@@ -167,7 +194,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-11",
@@ -184,7 +212,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-12",
@@ -201,7 +230,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-13",
@@ -218,7 +248,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-14",
@@ -234,7 +265,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-15",
@@ -251,7 +283,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-discord-16",
@@ -267,7 +300,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-discord-17",
@@ -283,7 +317,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-discord-18",
@@ -299,7 +334,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-discord-19",
@@ -315,7 +351,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-discord-20",
@@ -331,7 +368,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-discord-21",
@@ -347,7 +385,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-discord-22",
@@ -363,7 +402,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-telegram-23",
@@ -379,7 +419,8 @@
       "telegram"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-telegram-24",
@@ -395,7 +436,8 @@
       "telegram"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-telegram-25",
@@ -411,7 +453,8 @@
       "telegram"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-forum-26",
@@ -427,7 +470,8 @@
       "forum"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-forum-27",
@@ -443,7 +487,8 @@
       "forum"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-forum-28",
@@ -459,7 +504,8 @@
       "forum"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-forum-29",
@@ -475,7 +521,8 @@
       "forum"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-forum-30",
@@ -491,6 +538,7 @@
       "forum"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   }
 ]
