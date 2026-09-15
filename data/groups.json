@@ -1,5 +1,23 @@
 [
   {
+    "id": "no-code-bubble-automation-hub-discord-20260915-1",
+    "title": "Zapier Automation Community Discord",
+    "platform": "Discord",
+    "category": "API Integrations",
+    "memberCount": "34,000+ members",
+    "description": "Discussion on Zapier tables, custom code actions (Python/JS), and webhook integrations.",
+    "joinUrl": "https://discord.gg/zapier",
+    "tags": [
+      "zapier",
+      "integrations",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-15"
+  },
+  {
     "id": "no-code-bubble-automation-hub-discord-20260914-1",
     "title": "Airtable Builders Discord",
     "platform": "Discord",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-14"
   },
   {
