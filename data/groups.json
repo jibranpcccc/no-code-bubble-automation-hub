@@ -1,5 +1,24 @@
 [
   {
+    "id": "no-code-web-apps-bubble-io-builders-hub-reddit-2",
+    "title": "r/nocode Software Building",
+    "platform": "Reddit",
+    "category": "Visual Development",
+    "memberCount": "92,000+ members",
+    "description": "Foundational community comparing no-code stack combinations, API webhook pipelines, and rapid MVP deployment.",
+    "joinUrl": "https://www.reddit.com/r/nocode/",
+    "tags": [
+      "nocode",
+      "mvp",
+      "automation",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-19"
+  },
+  {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-1",
     "title": "r/Bubbleio Visual Web Apps",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -677,24 +696,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "no-code-web-apps-bubble-io-builders-hub-reddit-2",
-    "title": "r/nocode Software Building",
-    "platform": "Reddit",
-    "category": "Visual Development",
-    "memberCount": "92,000+ members",
-    "description": "Foundational community comparing no-code stack combinations, API webhook pipelines, and rapid MVP deployment.",
-    "joinUrl": "https://www.reddit.com/r/nocode/",
-    "tags": [
-      "nocode",
-      "mvp",
-      "automation",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-3",
