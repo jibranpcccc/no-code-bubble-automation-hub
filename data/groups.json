@@ -1,5 +1,24 @@
 [
   {
+    "id": "no-code-web-apps-bubble-io-builders-hub-reddit-4",
+    "title": "r/Airtable Relational Databases",
+    "platform": "Reddit",
+    "category": "Database & Interfaces",
+    "memberCount": "41,000+ members",
+    "description": "Relational schema designs, scripting extensions, Interface Designer dashboards, and sync tables.",
+    "joinUrl": "https://www.reddit.com/r/Airtable/",
+    "tags": [
+      "airtable",
+      "database",
+      "nocode",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-21"
+  },
+  {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-3",
     "title": "r/Zapier Workflow Automation",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-20"
   },
   {
@@ -715,24 +734,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "no-code-web-apps-bubble-io-builders-hub-reddit-4",
-    "title": "r/Airtable Relational Databases",
-    "platform": "Reddit",
-    "category": "Database & Interfaces",
-    "memberCount": "41,000+ members",
-    "description": "Relational schema designs, scripting extensions, Interface Designer dashboards, and sync tables.",
-    "joinUrl": "https://www.reddit.com/r/Airtable/",
-    "tags": [
-      "airtable",
-      "database",
-      "nocode",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-5",
