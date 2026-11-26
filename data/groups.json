@@ -1,5 +1,24 @@
 [
   {
+    "id": "no-code-web-apps-bubble-io-builders-hub-reddit-9",
+    "title": "r/SideProject MVP Builders",
+    "platform": "Reddit",
+    "category": "Product Launches",
+    "memberCount": "210,000+ members",
+    "description": "Showcasing no-code and indie hacker micro-SaaS prototypes, collecting user feedback, and early adoption.",
+    "joinUrl": "https://www.reddit.com/r/SideProject/",
+    "tags": [
+      "sideproject",
+      "mvp",
+      "startups",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-8",
     "title": "r/automation Business Systems",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -810,24 +829,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "no-code-web-apps-bubble-io-builders-hub-reddit-9",
-    "title": "r/SideProject MVP Builders",
-    "platform": "Reddit",
-    "category": "Product Launches",
-    "memberCount": "210,000+ members",
-    "description": "Showcasing no-code and indie hacker micro-SaaS prototypes, collecting user feedback, and early adoption.",
-    "joinUrl": "https://www.reddit.com/r/SideProject/",
-    "tags": [
-      "sideproject",
-      "mvp",
-      "startups",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "no-code-web-apps-bubble-io-builders-hub-reddit-10",
